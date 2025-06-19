@@ -1,0 +1,1 @@
+// API route para manejar requests de OpenAI
